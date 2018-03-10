@@ -90,7 +90,7 @@ Highly creative and versatile software developer with technical expertise in all
 
 (Coming Soon)
 
-### United States Marine Corps - Twentynine Palms, CA
+### [United States Marine Corps](http://www.marines.mil) - Twentynine Palms, CA
 #### M1A1 Tank Crewman (January 2007 - January 2011)
 
 (Coming Soon)
