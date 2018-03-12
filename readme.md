@@ -20,7 +20,7 @@ Highly creative and versatile software developer with technical expertise in all
 
 * Operating Systems: macOS, Ubuntu Linux
 
-* Standard Front-End Engineering Toolbox: Adobe Creative Suite, HTML5, CSS3, XML, YAML, SVG, DOM, JavaScript, Ajax, JSON, front-end performance, Gulp, jQuery, NextJS, MVC design pattern, SASS/SCSS, LESS, Bootstrap, responsive design patterns and more!
+* Standard Front-End Engineering Toolbox: Adobe Creative Suite, HTML5, CSS3, XML, YAML, SVG, DOM, JavaScript, Ajax, JSON, front-end performance, Gulp, jQuery, NextJS, MVC design pattern, SASS/SCSS, LESS, Bootstrap, responsive design patterns
 
 * WCAG 2.0 and Section 508 web accessibility guidelines
 
