@@ -1,5 +1,5 @@
 # Todd Austin
-
+—
 **Software Engineer:** Self-taught, energetic, and ambitious problem solver who is eager to work alongside other talented IT professionals in creating websites and applications to the highest standards.
 
 Highly creative and versatile software developer with technical expertise in all elements of a LAMP/LEMP stack. Proficient at managing time spread across numerous projects and clients simultaneously.
