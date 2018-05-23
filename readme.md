@@ -30,7 +30,7 @@ Highly creative and versatile software developer with technical expertise in all
 
 * Laravel Ecosystem: Forge, Valet
 
-* Environments: Laravel Valet, Vagrant, Virtual Box
+* Environments: Laravel Valet, Laravel Homestead, Vagrant, Virtual Box
 
 * Databases & Key-Value/Document stores: MySQL
 
