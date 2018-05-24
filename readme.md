@@ -50,7 +50,7 @@ Highly creative and versatile software developer with technical expertise in all
 
 * Databases & Key-Value/Document stores: SQLServer, Redis
 
-* Odds-and-ends: Apache Web Server configuration, Markdown, Content Delivery Networks
+* Odds-and-ends: Apache, Nginx, Markdown, Content Delivery Networks
 
 ### Limited Experience, or Interesting Things I'm Starting to Dabble In (1–3)
 
