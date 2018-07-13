@@ -36,7 +36,7 @@ Highly creative and versatile software developer with technical expertise in all
 
 * Infrastructure & Deployment: BuildMaster, Laravel Forge, DeployBot
 
-* Services: JIRA, Confluence, BitBucket, GitHub Enterprise, GitHub.com, Codeship, Digital Ocean, StyleCI, TravisCI, VersionEye
+* Services: Stripe, Authorize.net, Atlassian Suite, GitHub, Codeship, Digital Ocean, StyleCI, TravisCI, VersionEye
 
 ### Average Proficiency (4–6)
 
