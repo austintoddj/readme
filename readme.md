@@ -100,6 +100,7 @@ Highly creative and versatile software developer with technical expertise in all
 ## Groups & Accomplishments
 
 - Contributor to the Laravel Framework, [Pull Request #23191](https://github.com/laravel/framework/pull/23191)
+- Contributor to Laravel Horizon, [Pull Request #396](https://github.com/laravel/horizon/pull/396)
 - MN PHP User Group Speaker, [Canvas - How to Open Source Your Own Project](https://speakerdeck.com/austintoddj/canvas)
 
 ## Education
