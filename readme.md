@@ -1,7 +1,5 @@
 # Todd Austin
 
-—
-
 
 **Software Engineer:** Self-taught, energetic, and ambitious problem solver who is eager to work alongside other talented IT professionals in creating websites and applications to the highest standards.
 
