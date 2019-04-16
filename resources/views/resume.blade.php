@@ -45,13 +45,15 @@
                          src="{{ sprintf('https://secure.gravatar.com/avatar/%s?s=500', md5(strtolower(trim('austin.todd.j@gmail.com')))) }}"
                          alt="image">
                     <div class="media-body text-left">
-                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolores expedita
-                            harum iure modi mollitia similique soluta. Aliquid, eos esse harum illo ipsa iste, numquam
-                            quas quis quo sed sunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem
-                            dolores expedita harum iure modi mollitia similique soluta. Aliquid, eos esse harum illo
-                            ipsa iste, numquam quas quis quo sed sunt. Lorem ipsum dolor sit amet, consectetur
-                            adipisicing elit. Autem dolores expedita harum iure modi mollitia similique soluta. Aliquid,
-                            eos esse harum illo ipsa iste, numquam quas quis quo sed sunt.</p>
+                        <p class="mb-0">
+                            Self-taught, energetic, and ambitious problem solver who is eager to work alongside other
+                            talented IT professionals in creating web applications to the very highest standards. Highly
+                            creative and versatile PHP developer with technical expertise in all elements of a LAMP/LEMP
+                            stack. Proficient at managing time spread across numerous projects and tasks simultaneously.
+                            Building applications in an Agile environment with proper stress testing and code coverage
+                            is where I feel most at home. Learning is something I deeply value, web development is
+                            something I am deeply passionate about.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -69,10 +71,11 @@
                                     </div>
                                 </div>
                                 <div class="item-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, consequuntur culpa
-                                        cupiditate delectus deserunt dicta hic id iste nobis perspiciatis porro
-                                        praesentium repellat reprehenderit sapiente temporibus. Culpa deserunt
-                                        doloremque ipsum.</p>
+                                    <p>
+                                        Developed and maintained the Laravel-based API to support the Text2Drive
+                                        platform. Built a 'lite' version of DocuSign in Laravel and VueJS to enable
+                                        dealerships to maintain GDPR compliance with their customers.
+                                    </p>
                                 </div>
                             </div>
                             <div class="item mb-3">
@@ -83,10 +86,11 @@
                                     </div>
                                 </div>
                                 <div class="item-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium assumenda
-                                        consequatur dicta enim eos ipsa ipsam itaque, laudantium, modi necessitatibus
-                                        nulla perferendis porro qui quidem recusandae? Fugit nesciunt perferendis
-                                        quasi?</p>
+                                    <p>
+                                        Finished three contracts which included maintaining a Yii application for the
+                                        Starwood Hotels rewards dashboard as well as bringing the United Health Care
+                                        Baby Blocks site up to modern web accessibility standards.
+                                    </p>
                                 </div>
                             </div>
                             <div class="item mb-3">
@@ -97,9 +101,9 @@
                                     </div>
                                 </div>
                                 <div class="item-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur debitis
-                                        deleniti deserunt dicta dolores, ducimus eos hic impedit in labore libero
-                                        mollitia necessitatibus nemo nobis qui quis, quo tenetur vitae.</p>
+                                    <p>
+                                        Developed and maintained client sites in WordPress and Laravel.
+                                    </p>
                                 </div>
                             </div>
                             <div class="item">
@@ -110,9 +114,12 @@
                                     </div>
                                 </div>
                                 <div class="item-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi at cupiditate
-                                        dicta ex labore magnam necessitatibus recusandae totam veniam voluptate? Aperiam
-                                        at corporis ea facere hic officiis soluta, velit veritatis.</p>
+                                    <p>
+                                        Managed the hand-off of the Drupal 7/CakePHP site from a vendor agency and
+                                        re-built the application in Laravel with test driven development. Created a
+                                        custom CRM to support the non-profit foundation owned and operated by the
+                                        business.
+                                    </p>
                                 </div>
                             </div>
                             <div class="item">
@@ -123,9 +130,10 @@
                                     </div>
                                 </div>
                                 <div class="item-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi at cupiditate
-                                        dicta ex labore magnam necessitatibus recusandae totam veniam voluptate? Aperiam
-                                        at corporis ea facere hic officiis soluta, velit veritatis.</p>
+                                    <p>
+                                        Maintained the University website built in Drupal 6, handled faculty feature
+                                        requests and facilitated 3rd party development with local agencies.
+                                    </p>
                                 </div>
                             </div>
                         </section>
@@ -139,10 +147,12 @@
                                     </div>
                                 </div>
                                 <div class="item-content">
-                                    <p>A Laravel publishing platform. Canvas is a fully open source package to extend
+                                    <p>
+                                        A Laravel publishing platform. Canvas is a fully open source package to extend
                                         your application and get you up-and-running with a blog in just a few minutes.
                                         In addition to a distraction-free writing experience, you can view monthly
-                                        trends on your content, get insights into reader traffic and more!</p>
+                                        trends on your content, get insights into reader traffic and more!
+                                    </p>
                                 </div>
                             </div>
                             <div class="item">
@@ -154,9 +164,12 @@
                                     </div>
                                 </div>
                                 <div class="item-content">
-                                    <p>You can use this section for your side projects. Cras dapibus. Vivamus elementum
-                                        semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu,
-                                        consequat vitae, eleifend ac, enim.</p>
+                                    <p>
+                                        Built to support a private school with their annual fundraiser. Integrating
+                                        Stripe into the checkout process was crucial for giving customers a simple way
+                                        to interact and pay. A custom CRM enables school administrators to process
+                                        payments, run reports and facilitate the mass-pickup day.
+                                    </p>
 
                                 </div>
                             </div>
@@ -194,8 +207,10 @@
                                     <li class="mb-2">macOS, Ubuntu Linux</li>
                                     <li class="mb-2">PHP/MySQL</li>
                                     <li class="mb-2">HTML5/CSS3</li>
-                                    <li class="mb-2">Laravel, Yii, WordPress, Drupal<li>
-                                    <li class="mb-2">WCAG 2.0 and Section 508 web accessibility<li>
+                                    <li class="mb-2">Laravel, Yii, WordPress, Drupal
+                                    <li>
+                                    <li class="mb-2">WCAG 2.0 and Section 508 web accessibility
+                                    <li>
                                     <li class="mb-2">Valet, Homestead, Vagrant, Virtual Box</li>
                                     <li class="mb-2">BuildMaster, Forge, DeployBot</li>
                                     <li>Adobe Creative Cloud, Atlassian Suite, Stripe, Authorize.net, Codeship,
@@ -210,7 +225,8 @@
                                     <li class="mb-2">JavaScript</li>
                                     <li class="mb-2">VueJS, NextJS</li>
                                     <li class="mb-2">Shell scripting</li>
-                                    <li class="mb-2">PHPUnit, Selenium, Behat, PhantomJS<li>
+                                    <li class="mb-2">PHPUnit, Selenium, Behat, PhantomJS
+                                    <li>
                                     <li class="mb-2">SQLServer, Redis</li>
                                     <li class="mb-2">Interface Design, Community Development</li>
                                     <li>Apache, Nginx, Content Delivery Networks</li>
