@@ -12,39 +12,39 @@ I'm a self-taught, energetic, and ambitious problem solver who is eager to work 
 
 ## Employment
 
-**[Creative Market](https://creativemarket.com/) | Full Stack Engineer**
+**[Creative Market](https://creativemarket.com) | Full Stack Engineer**
 
 *Jun 2019 — Present*
 
-**[Lambda School](https://lambdaschool.com/) | Student Mentor**
+**[Lambda School](https://lambdaschool.com) | Student Mentor**
 
 *Jun 2019 — Present*
 
-**[Text2Drive](https://text2drive.com/) | Software Engineer**
+**[Text2Drive](https://text2drive.com) | Software Engineer**
 
 *Feb 2018 — May 2019*
 
 Developed and maintained the Laravel-based API to support the Text2Drive platform. Built a 'lite' version of DocuSign in Laravel and VueJS to enable dealerships to maintain GDPR compliance with their customers.
 
-**[Robert Half Technology](https://www.roberthalf.com/) | Web Developer**
+**[Robert Half Technology](https://www.roberthalf.com) | Web Developer**
 
 *May 2017 — Jan 2018*
 
 Finished three contracts which included maintaining a Yii application for the Starwood Hotels rewards dashboard as well as bringing the United Health Care Baby Blocks site up to modern web accessibility standards.
 
-**[Infinity Direct](https://infinitydirect.com/) | Web Developer**
+**[Infinity Direct](https://infinitydirect.com) | Web Developer**
 
 *Oct 2015 — Mar 2017*
 
 Developed and maintained client sites in WordPress and Laravel.
 
-**[Homes For Heroes](https://www.homesforheroes.com/) | Web Developer**
+**[Homes For Heroes](https://www.homesforheroes.com) | Web Developer**
 
 *Jul 2014 — Sep 2015*
 
 Managed the hand-off of the Drupal 7/CakePHP site from a vendor agency and re-built the application in Laravel with test driven development. Created a custom CRM to support the non-profit foundation owned and operated by the business.
 
-**[North Central University](https://www.northcentral.edu/) | Web Developer**
+**[North Central University](https://www.northcentral.edu) | Web Developer**
 
 *Dec 2013 — Jul 2014*
 
@@ -62,21 +62,26 @@ Built to support a private school with their annual fundraiser. Integrating Stri
 
 ## Speaking
 
-*Jul 2017* | MN PHP User Group
+**MN PHP User Group**
+
+*Jul 2017*
 
 [Canvas — How to open source your own project](https://speakerdeck.com/austintoddj/canvas)
 
+**Full Stack ATX**
+
+*Oct 2019 — Present*
 
 ## Open Source Contributions
 
-https://github.com/laravel/framework/pull/23191
-https://github.com/laravel/horizon/pull/396
-https://github.com/laravel/docs/pull/3551
-https://github.com/vuejs/vitepress/pull/1
+- [Laravel Framework](https://github.com/laravel/framework/pull/23191)
+- [Laravel Horizon](https://github.com/laravel/horizon/pull/396)
+- [Laravel Docs](https://github.com/laravel/docs/pull/3551)
+- [VueJS VitePress](https://github.com/vuejs/vitepress/pull/1)
 
 ## Links
 
-[toddaustin.me](https://toddaustin.me)
-[GitHub](https://github.com/austintoddj)
-[Twitter](https://twitter.com/austintoddj)
-[LinkedIn](https://linkedin.com/in/austintoddj)
+- [toddaustin.me](https://toddaustin.me)
+- [GitHub](https://github.com/austintoddj)
+- [Twitter](https://twitter.com/austintoddj)
+- [LinkedIn](https://linkedin.com/in/austintoddj)
