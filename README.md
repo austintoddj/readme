@@ -1,11 +1,8 @@
 # Todd Austin
-
-*612-309-8724*
-
-*[austin.todd.j@gmail.com](mailto:austin.todd.j@gmail.com)*
-
-*1057 Gaelic Dr*
-
+  
+*612-309-8724*  
+*[austin.todd.j@gmail.com](mailto:austin.todd.j@gmail.com)*  
+*1057 Gaelic Dr*  
 *Georgetown, TX 78626*
 
 ## If you were interviewing me...
