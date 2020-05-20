@@ -29,7 +29,7 @@ Type | Application
 *Continuous Integration* | CircleCI, StyleCI, TravisCI, GitHub Actions, Jenkins, Codeship
 *Cloud* | AWS, Scalr
 *Hosting* | Digital Ocean, Laravel Forge, GitHub Pages
-*DevOps* | DataDog, New Relic, BuildMaster
+*DevOps* | DataDog, New Relic, BuildMaster, Docker
 *Testing* | Selenium, PHPUnit, Behat, Jest, Cypress, Percy
 *Analytics* | Looker, Segment, Amplitude
 *Design* | Creative Cloud, Figma
