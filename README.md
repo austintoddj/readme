@@ -1,8 +1,43 @@
+# Todd Austin
+
+*612-309-8724*
+
+*[austin.todd.j@gmail.com](mailto:austin.todd.j@gmail.com)*
+
+*1057 Gaelic Dr*
+
+*Georgetown, TX 78626*
+
 ## If you were interviewing me...
 
 I'm a self-taught, energetic, and ambitious problem solver who is eager to work alongside other talented IT professionals in creating web applications to the very highest standards. Highly creative and versatile PHP developer with technical expertise in all elements of a LAMP/LEMP stack. Proficient at managing time spread across numerous projects and tasks simultaneously. Developing in an Agile environment with proper stress testing and code coverage is where I feel most at home. Learning is something I deeply value, web development is something I am deeply passionate about.
 
 ## If we were having coffee...
+
+## Skills
+
+Language/Platform | Experience
+--- | ---
+*Operating Systems* | macOS, Linux
+*PHP* | Laravel, Yii, WordPress, Drupal
+*Database* | MySQL, Elasticsearch, Redis, PostgreSQL, SQLite
+*JavaScript* | VueJS, Next.js
+*Others* | HTML5, CSS3, SASS, LESS, Bash, JSON, Markdown, YAML, XML, SOAP
+
+## Tools
+
+Type | Application
+--- | ---
+*Version Control* | Git, SVN
+*Continuous Integration* | CircleCI, StyleCI, TravisCI, GitHub Actions, Jenkins, Codeship
+*Cloud* | AWS, Scalr
+*Hosting* | Digital Ocean, Laravel Forge, GitHub Pages
+*DevOps* | DataDog, New Relic, BuildMaster
+*Testing* | Selenium, PHPUnit, Behat, Jest, Cypress, Percy
+*Analytics* | Looker, Segment, Amplitude
+*Design* | Creative Cloud, Figma
+*Payments* | Stripe, PayPal, Authorize.net
+*Others* | Jira, Trello, WCAG 2.0 & Section 508 Web Accessibility
 
 ## Education
 
