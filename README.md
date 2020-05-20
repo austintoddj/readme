@@ -64,7 +64,7 @@ Finished three contracts which included maintaining a Yii application for the St
 **[Infinity Direct](https://infinitydirect.com) | Web Developer**  
 *Oct 2015 — Mar 2017*
 
-Developed and maintained client sites in WordPress and Laravel.
+Developed and maintained client sites in Laravel and WordPress.
 
 **[Homes For Heroes](https://www.homesforheroes.com) | Web Developer**  
 *Jul 2014 — Sep 2015*
