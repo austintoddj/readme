@@ -7,7 +7,7 @@
 
 ## If you were interviewing me...
 
-I'm a self-taught, energetic, and ambitious problem solver who is eager to work alongside other talented IT professionals in creating web applications to the very highest standards. Highly creative and versatile PHP developer with technical expertise in all elements of a LAMP/LEMP stack. Proficient at managing time spread across numerous projects and tasks simultaneously. Developing in an Agile environment with proper stress testing and code coverage is where I feel most at home. Learning is something I deeply value, web development is something I am deeply passionate about.
+I'm a self-taught, energetic, and ambitious problem solver who is eager to work alongside other talented IT professionals in creating web applications to the very highest standards. Highly creative full stack developer with technical expertise in all aspects of a LAMP/LEMP stack. Proficient at managing time spread across numerous projects and tasks simultaneously. Developing in an Agile environment with proper stress testing and code coverage is where I feel most at home. Learning is something I deeply value, web development is something I am deeply passionate about.
 
 ## If we were having coffee...
 
