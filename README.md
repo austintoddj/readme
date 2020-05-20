@@ -49,7 +49,7 @@ Type | Application
 **[Lambda School](https://lambdaschool.com) | Student Mentor**  
 *Jun 2019 — Present*
 
-Volunteered to help the next wave of aspiring developers and data scientists find the next stop in their careers. The program pairs you with a student as you then walk with them on their journey through the track/program they've enrolled in. Schedule and lead 40 min weekly sessions to give them feedback, suport, mentorship, and encouragement through the duration of their enrollment. Deliver any and all feedback to the mentee as well as to the program administrator. 
+I volunteered to help the next wave of aspiring developers and data scientists find the next stop in their careers. The program pairs a mentor with a student as they progress on their journey through the track they've enrolled in. Responsibilities include scheduling and leading 40 min weekly sessions to give them feedback, suport, mentorship, and encouragement through the duration of their enrollment. Finally, I deliver any and all feedback to the mentee as well as to the program administrator and offer continuing support as they land their first job.
 
 **[Text2Drive](https://text2drive.com) | Software Engineer**  
 *Feb 2018 — May 2019*
