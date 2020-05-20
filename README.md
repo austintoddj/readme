@@ -85,9 +85,11 @@ A Laravel publishing platform. Canvas is a fully open source package to extend y
 Built to support a private school with their annual fundraiser. Integrating Stripe into the checkout process was crucial for giving customers a simple way to interact and pay. A custom CRM enables school administrators to process payments, run reports and facilitate the mass-pickup day.
 
 ## Talks
-  
+
+Date | Group
+--- | ---
+*Oct 2019 — Present* | Full Stack ATX (Monthly Meetup)
 *Jul 2017* | [How to open source your own project](https://speakerdeck.com/austintoddj/canvas)  
-*Oct 2019 — Present* | Full Stack ATX
 
 ## Open Source Contributions
 
