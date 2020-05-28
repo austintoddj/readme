@@ -49,32 +49,20 @@ Type | Application
 **[Lambda School](https://lambdaschool.com) | Student Mentor**  
 *Jun 2019 — Present*
 
-I volunteered to help the next wave of aspiring developers and data scientists find the next stop in their careers. The program pairs a mentor with a student as they progress on their journey through the track they've enrolled in. Responsibilities include scheduling and leading 40 min weekly sessions to give them feedback, suport, mentorship, and encouragement through the duration of their enrollment. Finally, I deliver any and all feedback to the mentee as well as to the program administrator and offer continuing support as they land their first job.
-
 **[Text2Drive](https://text2drive.com) | Software Engineer**  
 *Feb 2018 — May 2019*
-
-Developed and maintained the Laravel-based API to support the Text2Drive platform. Built a 'lite' version of DocuSign in Laravel and VueJS to enable dealerships to maintain GDPR compliance with their customers.
 
 **[Robert Half Technology](https://www.roberthalf.com) | Web Developer**  
 *May 2017 — Jan 2018*
 
-Finished three contracts which included maintaining a Yii application for the Starwood Hotels rewards dashboard as well as bringing the United Health Care Baby Blocks site up to modern web accessibility standards.
-
 **[Infinity Direct](https://infinitydirect.com) | Web Developer**  
 *Oct 2015 — Mar 2017*
-
-Developed and maintained client sites in Laravel and WordPress.
 
 **[Homes For Heroes](https://www.homesforheroes.com) | Web Developer**  
 *Jul 2014 — Sep 2015*
 
-Managed the hand-off of the Drupal 7/CakePHP site from a vendor agency and re-built the application in Laravel with test driven development. Created a custom CRM to support the non-profit foundation owned and operated by the business.
-
 **[North Central University](https://www.northcentral.edu) | Web Developer**  
 *Dec 2013 — Jul 2014*
-
-Maintained the University website built in Drupal 6, handled faculty feature requests and facilitated 3rd party development with local agencies.
 
 ## Recent Work
 
