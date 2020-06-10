@@ -27,14 +27,14 @@ Type | Application
 --- | ---
 *Version Control* | Git, SVN
 *Continuous Integration* | CircleCI, StyleCI, TravisCI, GitHub Actions, Jenkins, Codeship
-*Cloud* | AWS, Scalr
+*Cloud* | Amazon Web Services, Scalr
 *Hosting* | Digital Ocean, Laravel Forge, GitHub Pages
-*DevOps* | DataDog, New Relic, BuildMaster, Docker
+*DevOps* | Datadog, New Relic, BuildMaster, Docker
 *Testing* | Selenium, PHPUnit, Behat, Jest, Cypress, Percy
 *Analytics* | Looker, Segment, Amplitude
-*Design* | Creative Cloud, Figma
+*Design* | Adobe Creative Cloud, Figma
 *Payments* | Stripe, PayPal, Authorize.net
-*Others* | Jira, Trello, WCAG 2.0 & Section 508 Web Accessibility
+*Others* | Atlassian, Trello, WCAG 2.0 & Section 508 Web Accessibility
 
 ## Education
 
