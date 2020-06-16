@@ -15,7 +15,7 @@ Language/Platform | Experience
 --- | ---
 *Operating Systems* | macOS, Linux
 *PHP* | Laravel, Yii, WordPress, Drupal
-*Database* | MySQL, Elasticsearch, Redis, PostgreSQL, SQLite
+*Database/Storage* | MySQL, Elasticsearch, Redis, PostgreSQL, SQLite
 *JavaScript* | VueJS, Next.js
 *Others* | HTML5, CSS3, SASS, LESS, Bash, JSON, Markdown, YAML, XML, SOAP
 
