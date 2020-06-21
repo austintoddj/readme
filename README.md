@@ -28,7 +28,7 @@ Type | Application
 *Cloud* | Amazon Web Services, Scalr
 *Hosting* | Digital Ocean, Laravel Forge, GitHub Pages
 *DevOps* | Datadog, New Relic, BuildMaster, Docker
-*Testing* | Selenium, PHPUnit, Behat, Jest, Cypress, Percy
+*Testing* | PHPUnit, Selenium, Behat, Jest, Cypress, Percy
 *Analytics* | Looker, Segment, Amplitude
 *Design* | Adobe Creative Cloud, Figma
 *Payments* | Stripe, PayPal, Authorize.net
