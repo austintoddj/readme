@@ -7,7 +7,11 @@
 
 ## If you were interviewing me...
 
+I'm a self-taught, energetic, and ambitious problem solver who is eager to work alongside other talented IT professionals in creating web applications to the very highest standards. Highly creative and versatile PHP developer with technical expertise in all elements of a LAMP/LEMP stack. Proficient at managing time spread across numerous projects and tasks simultaneously. Building applications in an Agile environment with proper stress testing and code coverage is where I feel most at home. Learning is something I deeply value, web development is something I am deeply passionate about.
+
 ## If we were having coffee...
+
+I'm a full stack engineer and the creator of the Laravel publishing platform [Canvas](https://cnvs.io). Most of my work is open source and publicly available on [GitHub](https://github.com/austintoddj). Feel free to follow me on [Twitter](https://twitter.com/@austintoddj) and [Medium](https://medium.com/@austintoddj) to stay up-to-date on my latest work, or check out [Instagram](https://instagram.com/austintoddj) to see the fitness side of my life. Outside of programming and helping my wife take care of our two kids, I enjoy bodybuilding, re-watching Game of Thrones and collecting LEGOs.
 
 ## Skills
 
