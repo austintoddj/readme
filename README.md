@@ -1,9 +1,7 @@
 ## Todd Austin
   
-*Cell Phone*
-
+*Cell Phone* 
 *Email*  
-
 *Address*
 
 ## If you were interviewing me...
