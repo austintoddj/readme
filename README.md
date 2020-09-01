@@ -1,9 +1,8 @@
 ## Todd Austin
   
-*612-309-8724*  
-*[austin.todd.j@gmail.com](mailto:austin.todd.j@gmail.com)*  
-*1057 Gaelic Dr*  
-*Georgetown, TX 78626*
+*Cell Phone*
+*Email*  
+*Address*
 
 ## If you were interviewing me...
 
@@ -68,7 +67,7 @@ Type | Application
 
 ## Recent Work
 
-**[Canvas](https://cnvs.io)**
+**[Canvas](https://github.com/austintoddj/canvas)**
 
 A Laravel publishing platform. Canvas is a fully open source package to extend your application and get you up-and-running with a blog in just a few minutes. In addition to a distraction-free writing experience, you can view monthly trends on your content, get insights into reader traffic and more!
 
@@ -92,7 +91,6 @@ Date | Group
 
 ## Links
 
-- [toddaustin.me](https://toddaustin.me)
 - [GitHub](https://github.com/austintoddj)
 - [Twitter](https://twitter.com/austintoddj)
 - [LinkedIn](https://linkedin.com/in/austintoddj)
