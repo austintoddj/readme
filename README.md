@@ -11,7 +11,7 @@ I'm a self-taught, energetic, and ambitious problem solver who is eager to work 
 
 ## If we were having coffee...
 
-I'm a full stack engineer and the creator of the Laravel publishing platform [Canvas](https://cnvs.io). Most of my work is open source and publicly available on [GitHub](https://github.com/austintoddj). Feel free to follow me on [Twitter](https://twitter.com/@austintoddj) and [Medium](https://medium.com/@austintoddj) to stay up-to-date on my latest work, or check out [Instagram](https://instagram.com/austintoddj) to see the fitness side of my life. Outside of programming and helping my wife take care of our two kids, I enjoy bodybuilding, re-watching Game of Thrones and collecting LEGOs.
+I'm a full stack engineer and the creator of the Laravel publishing platform [Canvas](https://trycanvas.app). Most of my work is open source and publicly available on [GitHub](https://github.com/austintoddj). Feel free to follow me on [Twitter](https://twitter.com/@austintoddj) and [Medium](https://medium.com/@austintoddj) to stay up-to-date on my latest work, or check out [Instagram](https://instagram.com/austintoddj) to see the fitness side of my life. Outside of programming and helping my wife take care of our two kids, I enjoy bodybuilding, re-watching Game of Thrones and collecting LEGOs.
 
 ## Skills
 
