@@ -1,4 +1,4 @@
-## Todd Austin
+# Todd Austin
   
 *612-309-8724*  
 *[austin.todd.j@gmail.com](mailto:austin.todd.j@gmail.com)*  
